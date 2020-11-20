@@ -1,0 +1,9 @@
+vehicle_insp_url:http://192.168.2.95:8086/
+tmri_url:http://10.20.40.156:8080/pnweb/
+login_name:（检验平台用户名）
+login_pwd:（检验平台密码）
+manual_mode:0
+click_sbyq:1
+search_time:5
+click_time:0
+log_level:20
